@@ -23,6 +23,10 @@ Include some practice demos during my Golang learning.
   - testresflect.go - **Reflect in go.**
 - testjson
   - testjson.go - **Json parse and jsonify.**
+- testxorm
+  - testxorm.go - **xorm framework quick start.**
+- testredis
+  - testredis.go - **go-redis quick start.**
 
 ### Tips
 
